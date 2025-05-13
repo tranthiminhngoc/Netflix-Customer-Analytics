@@ -31,5 +31,5 @@ Phân tích hành vi người dùng Netflix và trực quan hóa thông tin bằ
 Dự án được thực hiện bởi *Trần Thị Minh Ngọc* – sinh viên định hướng theo lĩnh vực Phân tích Dữ liệu và Business Intelligence.  
 Mong muốn phát triển trong các vai trò liên quan đến phân tích dữ liệu, xây dựng dashboard, và hỗ trợ ra quyết định kinh doanh dựa trên dữ liệu.
 
-📬 Email: [minhngoc04.work@gmai@.com]
+📬 Email: [minhngoc04.work@gmai.com]
 
