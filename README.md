@@ -1,4 +1,4 @@
-# Netflix Data Analysis & Dashboard Project
+# Netflix Customers Analysis & Dashboard Project
 
 Phân tích hành vi người dùng Netflix và trực quan hóa thông tin bằng Power BI & Python. Dự án khai thác dữ liệu từ Netflix để hiểu sâu hơn về khách hàng, hành vi thanh toán, tỷ lệ churn và các yếu tố ảnh hưởng đến trải nghiệm người dùng.
 
